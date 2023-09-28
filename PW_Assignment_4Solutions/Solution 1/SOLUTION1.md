@@ -3,7 +3,7 @@
 - HTML5 is the latest version of the HTML standard, and it introduces a number of new features and improvements that make it more powerful and flexible than previous versions. Here is a list of some of the most notable features of HTML5, with a focus on practical applications:__
 
 - **`Semantic elements:`**
-- HTML5 introduces a number of new semantic elements such as` **`<header>`**,**`<nav>`**,**`<section>`**,**`<article>`**, and **`<footer>`**. These elements make it easier to structure your HTML code and make it more meaningful to search engines and other applications.
+- HTML5 introduces a number of new semantic elements such as **`<header>`**,**`<nav>`**,**`<section>`**,**`<article>`**, and **`<footer>`**. These elements make it easier to structure your HTML code and make it more meaningful to search engines and other applications.
 - **`Audio and video support:`**
 -  HTML5 now includes native support for audio and video playback, without the need for third-party plugins like Flash. This makes it easier to add rich multimedia content to your web pages'.**
 - **`Canvas element:`**
