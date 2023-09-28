@@ -1,0 +1,2 @@
+# SOLUTION 6 OUTPUT 
+![HTML VS HTML5](image.png)
