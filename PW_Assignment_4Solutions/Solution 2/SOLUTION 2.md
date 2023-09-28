@@ -7,13 +7,13 @@ HTML entities are used to represent characters that cannot be typed directly int
  ### Commonly used entities
  Here are 5 commonly used HTML entities:
 
-- &lt;: Less than sign (<)
-- &gt;: Greater than sign (>)
-- &amp;: Ampersand (&)
-- &quot;: Double quotation mark (")
-- &apos;: Single quotation mark (')
+- `**&lt;:`** Less than sign (<)
+- `**&gt;:`** Greater than sign (>)
+- `**&amp;:`** Ampersand (&)
+- `**&quot;`** Double quotation mark (")
+- `**&apos;:`** Single quotation mark (')
 
-'<!DOCTYPE html>
+`**<!DOCTYPE html>
 <html>
 <head>
   <title>My Web Page</title>
