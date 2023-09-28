@@ -1,2 +1,2 @@
 # SOLUTION 6 OUTPUT 
-![HTML VS HTML5](image.png)
+![HTML VS HTML5](image-1.png)

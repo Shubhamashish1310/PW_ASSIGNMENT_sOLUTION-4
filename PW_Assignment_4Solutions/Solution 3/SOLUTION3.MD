@@ -7,9 +7,9 @@
 
 - Creating accessible websites also benefits a variety of other user groups, including:
 
-`**People with older devices:**` Accessible websites are often designed to be more lightweight and efficient, which can improve the performance of websites on older devices.
-`**People with slow internet connections:**` Accessible websites are often designed to be more efficient with data usage, which can improve the performance of websites for people with slow internet connections.
-`**People using mobile devices:**` Accessible websites are often designed to be more responsive and easier to use on mobile devices.
+- **`People with older devices:`**` Accessible websites are often designed to be more lightweight and efficient, which can improve the performance of websites on older devices.
+- **`People with slow internet connections:`** Accessible websites are often designed to be more efficient with data usage, which can improve the performance of websites for people with slow internet connections.
+- **`People using mobile devices:`** Accessible websites are often designed to be more responsive and easier to use on mobile devices.
 People with limited English proficiency: Accessible websites can be more easily translated into other languages, which can improve the usability of websites for people with limited English proficiency.
 In short, creating accessible websites is essential for creating a more inclusive and equitable web for everyone.
 
